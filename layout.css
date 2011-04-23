@@ -1,0 +1,106 @@
+/** BASIC */
+
+html, body {
+	height: 100%;
+}
+
+/** WRAPPER */
+
+#wrapper {
+	width: 720px;
+	margin: 0px auto;
+	background: url(images/bg02.jpg) repeat-y left top;
+}
+
+.subpage #wrapper {
+	background: #FFFFFF;
+}
+
+/** MENU */
+
+#menu {
+	margin: 0px auto;
+}
+
+/** HEADER */
+
+#header {
+	height: 140px;
+	margin: 0px auto;
+}
+
+/** PAGE */
+
+#page {
+}
+
+.subpage #page {
+}
+
+/** CONTENT */
+
+#content {
+	float: right;
+	width: 460px;
+	padding: 20px 30px 0px 0px;
+}
+
+/** SIDEBAR */
+
+#sidebar {
+	float: left;
+	width: 201px;
+}
+
+.subpage #sidebar {
+	width: 183px;
+	padding: 25px 0px 0px 18px;
+}
+
+/** SINGLE */
+
+#single {
+	padding: 20px;
+}
+
+/** FOOTER */
+
+#footer {
+	width: 720px;
+	margin: 0px auto;
+}
+
+#footer p {
+}
+
+.subpage #footer {
+}
+
+.subpage #footer p {
+	padding-left: 0px;
+}
+
+/** BOX1 */
+
+#box1 {
+}
+
+/** BOX2 */
+
+#box2 {
+}
+
+/** BOX3 */
+
+#box3 {
+}
+
+/** BOX4 */
+
+#box4 {
+}
+
+/** BOX5 */
+
+#box5 {
+}
